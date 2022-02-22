@@ -1,0 +1,1362 @@
+[
+  {
+    "land_asset_id": "1099583086512",
+    "account": "nrfbtoystore",
+    "land_id": "gno1.357103.819",
+    "land_type": "residential",
+    "location": "Singapore, Malaysia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086517",
+    "account": "h2rbi.wam",
+    "land_id": "gno46.984123.805",
+    "land_type": "commercial",
+    "location": "Aberdeen, Wa",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086524",
+    "account": "v5efs.wam",
+    "land_id": "gno5.85772.992",
+    "land_type": "commercial",
+    "location": "Vaadhoo Island, Maldives",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086525",
+    "account": "umwcq.wam",
+    "land_id": "gnon31.953115.860",
+    "land_type": "commercial",
+    "location": "Perth, Australia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086526",
+    "account": "ssure.wam",
+    "land_id": "gno14.556121.023",
+    "land_type": "commercial",
+    "location": "Makati, Philippines",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086528",
+    "account": "qomaw.wam",
+    "land_id": "gno50.8724.309",
+    "land_type": "commercial",
+    "location": "Ganshoren, Belgium ",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086531",
+    "account": "1d5fu.wam",
+    "land_id": "gno44.86515.582",
+    "land_type": "residential",
+    "location": "Zagreb, Croatia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086532",
+    "account": "zjqr4.wam",
+    "land_id": "gnon2.00021.000",
+    "land_type": "commercial",
+    "location": "Kinshasa, Africa",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086533",
+    "account": "ywhbu.wam",
+    "land_id": "gno57.16165.525",
+    "land_type": "residential",
+    "location": "Tyumen, Russia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086535",
+    "account": "ihpr2.wam",
+    "land_id": "gno124.8476.497",
+    "land_type": "residential",
+    "location": "Koronadal City, Philippines",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086538",
+    "account": "mcwra.wam",
+    "land_id": "gnon14.087n75.762",
+    "land_type": "commercial",
+    "location": "Huacachina, Peru",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086553",
+    "account": "nrfbtoystore",
+    "land_id": "gno43.075n89.384",
+    "land_type": "residential",
+    "location": "Madison, WI",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086561",
+    "account": "gdvr4.wam",
+    "land_id": "gno33.200103.900",
+    "land_type": "commercial",
+    "location": "Jiuzhai, China",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086567",
+    "account": "iyuca.wam",
+    "land_id": "gno29.046n98.866",
+    "land_type": "commercial",
+    "location": "Bigfoot, Texas",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086568",
+    "account": "cprb2.wam",
+    "land_id": "gno38.64334.828",
+    "land_type": "residential",
+    "location": "Goreme, Turkey",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086571",
+    "account": "savagebunnys",
+    "land_id": "gno43.2075.442",
+    "land_type": "commercial",
+    "location": "Baumettes, France",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086588",
+    "account": "niftyguitars",
+    "land_id": "gnon34.802n54.572",
+    "land_type": "commercial",
+    "location": "Laguna Garzon, Uruguay",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086589",
+    "account": "3ffau.wam",
+    "land_id": "gnon31.953115.857",
+    "land_type": "commercial",
+    "location": "Perth, Australia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086603",
+    "account": "1y2aw.wam",
+    "land_id": "gno50.288n107.793",
+    "land_type": "residential",
+    "location": "Swift Current, SK, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086615",
+    "account": "qeaas.wam",
+    "land_id": "gnon33.48325.750",
+    "land_type": "commercial",
+    "location": "Gqeberha, South Africa",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086616",
+    "account": "n1kra.wam",
+    "land_id": "gno6.247n75.565",
+    "land_type": "commercial",
+    "location": "Medellin, CO",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086622",
+    "account": "danishcrypto",
+    "land_id": "gno49.766n94.483",
+    "land_type": "commercial",
+    "location": "Kenora, ON, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086635",
+    "account": "iupds.wam",
+    "land_id": "gnon42.880147.324",
+    "land_type": "residential",
+    "location": "Hobart, Australia ",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086636",
+    "account": "bpeb2.wam",
+    "land_id": "gno47.591n122.332",
+    "land_type": "residential",
+    "location": "Seattle, Wa",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086640",
+    "account": "u.sqy.wam",
+    "land_id": "gno40.813n74.074",
+    "land_type": "commercial",
+    "location": "E. Rutherford, N.J. ",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086646",
+    "account": "ux4ra.wam",
+    "land_id": "gno43.879n103.459",
+    "land_type": "residential",
+    "location": "Mount Rushmore, SD",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086647",
+    "account": "qomaw.wam",
+    "land_id": "gno43.664101.524",
+    "land_type": "residential",
+    "location": "Dalanzadgad, Mongolia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086649",
+    "account": "4yujo.wam",
+    "land_id": "gno40.804n76.341",
+    "land_type": "commercial",
+    "location": "Centralia, Pennsylvania",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086651",
+    "account": "3jlqw.wam",
+    "land_id": "gnon6.606n79.041",
+    "land_type": "commercial",
+    "location": "Sexi Santa Cruz, Peru",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086659",
+    "account": "yznxc.wam",
+    "land_id": "gno13.621123.194",
+    "land_type": "residential",
+    "location": "Naga, Philippines",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086665",
+    "account": "eber.wam",
+    "land_id": "gno33.75978.667",
+    "land_type": "commercial",
+    "location": "Ladakh, Himalayas",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086670",
+    "account": "nrfbtoystore",
+    "land_id": "gno30.04431.236",
+    "land_type": "residential",
+    "location": "Cairo, Egypt",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086699",
+    "account": "planetyunani",
+    "land_id": "gno25.958n80.238",
+    "land_type": "residential",
+    "location": "Miami, FL",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086702",
+    "account": "nwjb2.wam",
+    "land_id": "gno45.293n111.946",
+    "land_type": "residential",
+    "location": "Virginia CIty, Montana",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086705",
+    "account": "umwcq.wam",
+    "land_id": "gnon8.650115.216",
+    "land_type": "commercial",
+    "location": "Denpasar, Bali, ID",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086708",
+    "account": "i3ub.wam",
+    "land_id": "gno36.097n112.098",
+    "land_type": "commercial",
+    "location": "Grand Canyon, AZ",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086713",
+    "account": "mvcry.wam",
+    "land_id": "gnon9.226n77.447",
+    "land_type": "residential",
+    "location": "Chacas, Peru",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086715",
+    "account": "3ttay.wam",
+    "land_id": "gno45.508n73.561",
+    "land_type": "commercial",
+    "location": "Montreal, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086719",
+    "account": "bi4aw.wam",
+    "land_id": "gno43.86615.972",
+    "land_type": "residential",
+    "location": "Dalmatia, Croatia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086724",
+    "account": "tuyt.wam",
+    "land_id": "gno35.613n83.553",
+    "land_type": "residential",
+    "location": "Gatlinburg, Tennessee",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086733",
+    "account": "1.twu.wam",
+    "land_id": "gno47.48213.189",
+    "land_type": "residential",
+    "location": "Werfen, Austria",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086734",
+    "account": "ssure.wam",
+    "land_id": "gno14.852120.816",
+    "land_type": "commercial",
+    "location": "Malolos, Philippines",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086750",
+    "account": "1y2aw.wam",
+    "land_id": "gnon25.302n57.411",
+    "land_type": "commercial",
+    "location": "Aregua, Paraguay",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086753",
+    "account": "k1cyq.wam",
+    "land_id": "gno32.717n117.163",
+    "land_type": "commercial",
+    "location": "San Diego, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086774",
+    "account": "n1kra.wam",
+    "land_id": "gno11.240n74.211",
+    "land_type": "residential",
+    "location": "Santa Marta, Columbia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086781",
+    "account": "akyqy.wam",
+    "land_id": "gnon34.908n55.044",
+    "land_type": "residential",
+    "location": "Casapueblo, Uruguay",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086789",
+    "account": "bu3r.wam",
+    "land_id": "gno52.640106.235",
+    "land_type": "commercial",
+    "location": "Irkutsk Oblast, Russia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086796",
+    "account": "k1cyq.wam",
+    "land_id": "gno39.65566.976",
+    "land_type": "residential",
+    "location": "Samarkand, Uzbekistan",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086797",
+    "account": "qjxqy.wam",
+    "land_id": "gno4.711n74.072",
+    "land_type": "residential",
+    "location": "Bogota, CO",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086798",
+    "account": "savagebunnys",
+    "land_id": "gno58.302n134.420",
+    "land_type": "residential",
+    "location": "Juneau, AK",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086802",
+    "account": "umwcq.wam",
+    "land_id": "gnon0.461n76.993",
+    "land_type": "residential",
+    "location": "Coca, Ecuador",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086805",
+    "account": "bihutnetmain",
+    "land_id": "gnon20.255148.813",
+    "land_type": "commercial",
+    "location": "Daydream Island, Australia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086818",
+    "account": "h4je4.wam",
+    "land_id": "gno53.483n2.244",
+    "land_type": "residential",
+    "location": "Manchester, UK",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086926",
+    "account": "swwba.wam",
+    "land_id": "gno48.70044.516",
+    "land_type": "commercial",
+    "location": "Volgograd, Russia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583086957",
+    "account": "xxpaq.wam",
+    "land_id": "gno44.00378.838",
+    "land_type": "residential",
+    "location": "Almaty, Kazakhstan",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583087041",
+    "account": "o5br.wam",
+    "land_id": "gno63.748n68.519",
+    "land_type": "commercial",
+    "location": "Iqaluit, NU, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583087075",
+    "account": "3r.b2.wam",
+    "land_id": "gno20.212n87.435",
+    "land_type": "residential",
+    "location": "Yucatan, Mexico",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583087080",
+    "account": "bu3r.wam",
+    "land_id": "gno47.50219.034",
+    "land_type": "commercial",
+    "location": "Budapest, Hungary",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583087363",
+    "account": "wofqy.wam",
+    "land_id": "gno54.65224.933",
+    "land_type": "residential",
+    "location": "Trakai Island Castle, Lithuania",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583088121",
+    "account": "qeaas.wam",
+    "land_id": "gno49.96115.288",
+    "land_type": "residential",
+    "location": "Kutná Hora, Czech Republic",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583092739",
+    "account": "l.cb4.wam",
+    "land_id": "gno47.232n123.959",
+    "land_type": "residential",
+    "location": "Humptulips, Washington",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583093141",
+    "account": "bpeb2.wam",
+    "land_id": "gno32.764129.872",
+    "land_type": "commercial",
+    "location": "Nagasaki, Japan",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583098826",
+    "account": "effektivitet",
+    "land_id": "gno29.439106.887",
+    "land_type": "residential",
+    "location": "Chongqing, China",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583140980",
+    "account": "5jmrg.wam",
+    "land_id": "gno45.0496.290",
+    "land_type": "residential",
+    "location": "Col du Lautaret, France",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172751",
+    "account": "mcwra.wam",
+    "land_id": "gno11.315n74.080",
+    "land_type": "residential",
+    "location": "Magdalena, Colombia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172770",
+    "account": "lbbf2.wam",
+    "land_id": "gno55.241n6.511",
+    "land_type": "commercial",
+    "location": "Giant's Causeway, Northern Ireland",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172781",
+    "account": "nrfbtoystore",
+    "land_id": "gnon22.153n67.117",
+    "land_type": "commercial",
+    "location": "Sud Lipez, Bolivia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172789",
+    "account": "px4b4.wam",
+    "land_id": "gno40.760n111.887",
+    "land_type": "commercial",
+    "location": "Salt Lake City, UT",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172801",
+    "account": "v5efs.wam",
+    "land_id": "gno49.528n96.691",
+    "land_type": "residential",
+    "location": "Steinbach, MB, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172803",
+    "account": "vd3r2.wam",
+    "land_id": "gno33.128107.252",
+    "land_type": "residential",
+    "location": "Truth or Consequences, New Mexico",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172805",
+    "account": "ywhbu.wam",
+    "land_id": "gno56.431n6.341",
+    "land_type": "commercial",
+    "location": "Isle of Staffa, UK",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172809",
+    "account": "jb5rm.wam",
+    "land_id": "gno51.318n116.190",
+    "land_type": "commercial",
+    "location": "Alberta, Canada",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172810",
+    "account": "vd3r2.wam",
+    "land_id": "gno7.448125.809",
+    "land_type": "commercial",
+    "location": "Tagum City, Philippines",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172815",
+    "account": "umwcq.wam",
+    "land_id": "gno44.78720.457",
+    "land_type": "residential",
+    "location": "Belgrade, Serbia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172819",
+    "account": "planetyunani",
+    "land_id": "gno9.626n84.028",
+    "land_type": "commercial",
+    "location": "San Jose, Costa Rica",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172820",
+    "account": "3ttay.wam",
+    "land_id": "gno56.913118.250",
+    "land_type": "residential",
+    "location": "Chara, Russia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172827",
+    "account": "mvcry.wam",
+    "land_id": "gno28.272n16.642",
+    "land_type": "commercial",
+    "location": "Tenerife, Spain",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172856",
+    "account": "iyuca.wam",
+    "land_id": "gno43.130n80.746",
+    "land_type": "residential",
+    "location": "Woodstock, ON, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172857",
+    "account": "3r.b2.wam",
+    "land_id": "gnon1.28636.817",
+    "land_type": "commercial",
+    "location": "Nairobi, Kenya",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172863",
+    "account": "ssure.wam",
+    "land_id": "gno29.951n90.071",
+    "land_type": "residential",
+    "location": "New Orleans, US",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172877",
+    "account": "danishcrypto",
+    "land_id": "gnon18.142178.442",
+    "land_type": "residential",
+    "location": "Suva, Fiji",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172885",
+    "account": "l.cb4.wam",
+    "land_id": "gno57.66836.807",
+    "land_type": "commercial",
+    "location": "Sukromny, Russia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172888",
+    "account": "5hcba.wam",
+    "land_id": "gno55.79649.108",
+    "land_type": "commercial",
+    "location": " Kazan, Russia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172889",
+    "account": "vd3r2.wam",
+    "land_id": "gno28.385n81.563",
+    "land_type": "commercial",
+    "location": "Orlando, FL",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172914",
+    "account": "p31ro.wam",
+    "land_id": "gno55.240n6.511",
+    "land_type": "commercial",
+    "location": "Bushmills, UK",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172916",
+    "account": "zb1ig.wam",
+    "land_id": "gno37.305n112.949",
+    "land_type": "commercial",
+    "location": "Washington County, Utah",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172920",
+    "account": "mmatw.wam",
+    "land_id": "gnon4.32215.313",
+    "land_type": "residential",
+    "location": "Kinshasa, Congo DR",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172922",
+    "account": "savagebunnys",
+    "land_id": "gno35.475138.641",
+    "land_type": "commercial",
+    "location": "Aokigahara Forest, Japan",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172961",
+    "account": "o5br.wam",
+    "land_id": "gno23.249n106.411",
+    "land_type": "residential",
+    "location": "Mazatlan, Mexico",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583172962",
+    "account": "3ffau.wam",
+    "land_id": "gnon2.33334.833",
+    "land_type": "residential",
+    "location": "Ikoma, Tanzania",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173002",
+    "account": "tuyt.wam",
+    "land_id": "gno41.530n87.380",
+    "land_type": "commercial",
+    "location": "Chicago, Ill",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173009",
+    "account": "xaiay.wam",
+    "land_id": "gnon46.645n72.608",
+    "land_type": "commercial",
+    "location": "Chile Chico, Chile",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173010",
+    "account": "dffau.wam",
+    "land_id": "gno38.796n9.396",
+    "land_type": "residential",
+    "location": "Quinta da Regaleira, Portugal",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173013",
+    "account": "nrfbtoystore",
+    "land_id": "gno64.838n147.717",
+    "land_type": "residential",
+    "location": "Fairbanks, AK",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173018",
+    "account": "5rjx4.wam",
+    "land_id": "gno27.05927.969",
+    "land_type": "residential",
+    "location": "Farafra, Egypt",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173021",
+    "account": "sikbe.wam",
+    "land_id": "gno14.796120.877",
+    "land_type": "commercial",
+    "location": "Bulacan, Philippines",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173026",
+    "account": "y3kce.wam",
+    "land_id": "gno59.32518.071",
+    "land_type": "residential",
+    "location": "Stockholm, Sweden",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173051",
+    "account": "qvmba.wam",
+    "land_id": "gno33.30244.379",
+    "land_type": "residential",
+    "location": "Baghdad, Iraq",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173069",
+    "account": "qeaas.wam",
+    "land_id": "gno20.272148.991",
+    "land_type": "commercial",
+    "location": "Whitsundays, Australia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173070",
+    "account": ".1oyg.wam",
+    "land_id": "gno5.082n1.348",
+    "land_type": "residential",
+    "location": "Elmina Castle, Ghana",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173088",
+    "account": "1d5fu.wam",
+    "land_id": "gno46.397n63.808",
+    "land_type": "commercial",
+    "location": "Summerside, PEI, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173111",
+    "account": "v5bdq.wam",
+    "land_id": "gno49.27119.982",
+    "land_type": "commercial",
+    "location": "Kuznice, Poland",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173123",
+    "account": "nrfbtoystore",
+    "land_id": "gnon39.192175.593",
+    "land_type": "commercial",
+    "location": "Raupehu, New Zealand",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173136",
+    "account": "ldlr4.wam",
+    "land_id": "gnon8.569119.5",
+    "land_type": "residential",
+    "location": "Komodo, Indonesia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173177",
+    "account": "jb5rm.wam",
+    "land_id": "gnon37.814144.963",
+    "land_type": "residential",
+    "location": "Melbourne, Australia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173196",
+    "account": "kexwk.wam",
+    "land_id": "gnon33.865151.209",
+    "land_type": "residential",
+    "location": "Sydney, Aus",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173764",
+    "account": "fus.ion",
+    "land_id": "gno49.104n122.801",
+    "land_type": "commercial",
+    "location": "Surrey, BC, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583173772",
+    "account": "4yujo.wam",
+    "land_id": "gno2.263n73.793",
+    "land_type": "residential",
+    "location": "Meta, Columbia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583174191",
+    "account": "vd3r2.wam",
+    "land_id": "gno24.457121.258",
+    "land_type": "residential",
+    "location": "Mount Sylvania, Taiwan",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583174192",
+    "account": "5rjx4.wam",
+    "land_id": "gno49.246n122.994",
+    "land_type": "commercial",
+    "location": "Burnaby, BC, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583175424",
+    "account": "31tra.wam",
+    "land_id": "gno33.71877.388",
+    "land_type": "residential",
+    "location": "Leh, India",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583177481",
+    "account": "lbbf2.wam",
+    "land_id": "gno51.178n1.826",
+    "land_type": "residential",
+    "location": "Salisbury, UK",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583177702",
+    "account": "px4b4.wam",
+    "land_id": "gnon1.28636.817",
+    "land_type": "residential",
+    "location": "Nairobi, Kenya",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583178616",
+    "account": "exjay.wam",
+    "land_id": "gno48.8582.294",
+    "land_type": "commercial",
+    "location": "Paris, France ",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583178617",
+    "account": "exjay.wam",
+    "land_id": "gno17.316n87.535",
+    "land_type": "residential",
+    "location": "The Great Blue Hole, Belize ",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583179416",
+    "account": "ihpr2.wam",
+    "land_id": "gno45.022n79.679",
+    "land_type": "commercial",
+    "location": "Muskokas, Ontario",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583179850",
+    "account": "5jmrg.wam",
+    "land_id": "gno13.699n89.191",
+    "land_type": "commercial",
+    "location": "San Salvador, El Salvador",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583180381",
+    "account": "bu3r.wam",
+    "land_id": "gnon18.85516.329",
+    "land_type": "residential",
+    "location": "Etosha, Namibia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583180925",
+    "account": "bu3r.wam",
+    "land_id": "gno14.617121.059",
+    "land_type": "residential",
+    "location": "Cuboa, Philippines",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583180936",
+    "account": "p31ro.wam",
+    "land_id": "gno49.687n124.994",
+    "land_type": "residential",
+    "location": "Courtenay, BC, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583181310",
+    "account": "hh2qw.wam",
+    "land_id": "gno62.453n114.371",
+    "land_type": "residential",
+    "location": "Yellowknife, NT, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583182645",
+    "account": "r2t.e.wam",
+    "land_id": "gno17.997n76.793",
+    "land_type": "commercial",
+    "location": "Kingston, JAM",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583185895",
+    "account": "qeaas.wam",
+    "land_id": "gno44.311n69.779",
+    "land_type": "residential",
+    "location": "Augusta, Maine",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583188844",
+    "account": "x2.r.wam",
+    "land_id": "gno45.964n66.646",
+    "land_type": "commercial",
+    "location": "Fredericton, NB, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583188845",
+    "account": "x2.r.wam",
+    "land_id": "gno37.087n3.146",
+    "land_type": "residential",
+    "location": "Granada, Spain",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583189161",
+    "account": "rpiay.wam",
+    "land_id": "gnon12.462130.841",
+    "land_type": "residential",
+    "location": "Darwin, Australia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583190487",
+    "account": "mp5rg.wam",
+    "land_id": "gno43.790n110.681",
+    "land_type": "residential",
+    "location": "Jackson, Wyoming",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583198395",
+    "account": "v5bdq.wam",
+    "land_id": "gno54.464n110.182",
+    "land_type": "residential",
+    "location": "Cold Lake, AB, CA",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583217653",
+    "account": "nrfbtoystore",
+    "land_id": "gno25.304110.273",
+    "land_type": "commercial",
+    "location": "Guilin, China",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583217654",
+    "account": "nrfbtoystore",
+    "land_id": "gno64.048n16.179",
+    "land_type": "commercial",
+    "location": "Vatnajokull, Iceland",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583237559",
+    "account": "savagebunnys",
+    "land_id": "gnon1.05029.620",
+    "land_type": "residential",
+    "location": "Kanungu, Uganda",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583261222",
+    "account": "swwba.wam",
+    "land_id": "gnon1.49035.143",
+    "land_type": "residential",
+    "location": "Sekenani, Kenya",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583262879",
+    "account": "umwcq.wam",
+    "land_id": "gno53.24150.221",
+    "land_type": "residential",
+    "location": "Samara, Russia",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583267123",
+    "account": "n1kra.wam",
+    "land_id": "gno13.905n4.555",
+    "land_type": "commercial",
+    "location": "Djenne, Mali",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583267225",
+    "account": "n1kra.wam",
+    "land_id": "gno49.98836.232",
+    "land_type": "residential",
+    "location": "Kharkiv, Ukraine",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  },
+  {
+    "land_asset_id": "1099583884331",
+    "account": "bnpbi.wam",
+    "land_id": "gno46.877n96.790",
+    "land_type": "commercial",
+    "location": "Fargo, ND",
+    "land_price": "0 ",
+    "isconfirmed": 1,
+    "setready": 0
+  }
+]
